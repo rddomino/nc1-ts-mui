@@ -1,0 +1,39 @@
+.iprow__inner {
+    display: flex;
+    flex-direction: column;
+    width: 1185px;
+    height: 531px;
+    margin: 160px 91px;
+    margin-bottom: 15px;
+}
+
+.ipimg {
+    width: 448px;
+    height: 448px;
+}
+
+.ipimg__box {
+    overflow: hidden;
+    height: 448px;
+    width: 448px;
+    position: relative;
+    border-radius: 28px;
+}
+
+.ip__footer {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    margin-top: 61px;
+}
+
+.ipicon__wrapper {
+    display: flex;
+    height: 81.75px;
+    width: 81.75px;
+    background-color: #FFCC26;
+    border-radius: 13px;
+    cursor: pointer;
+}
